@@ -28,7 +28,33 @@ const CONTROL_TO_EMAIL =
 
 const DEFAULT_BCC_RECIPIENTS = [
   
+  "dennis.pedroso@snisaude.com.br",
+
+  "faranio@prevservice.com.br",
+
+  "jeferson.santos@snisaude.com.br",
+
+  "josiane.colombo@saudeclara.com.br",
+
+  "pablo@odont.com.br",
+
+  "raquel@dronline24h.com.br",
+
+  "rubia.felix@doutorhoje.com.br",
+
+  "savio.jacob@snisaude.com.br",
+
+  "viliene@prevservice.com.br",
+
+  "vitor.sobral@salustech.com.br",
+
+  "flavia.varga@grupofapes.com.br",
+
+  "farias@grupofapes.com.br",
+  
   "ivo.coelho@grupofapes.com.br",
+
+  "carlos.rezende@snisaude.com.br"
 
 ].join(",");
 
